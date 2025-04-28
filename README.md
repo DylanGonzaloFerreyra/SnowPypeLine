@@ -7,8 +7,8 @@ extracting, cleaning, and storing meteorological data. It uses Apache Airflow fo
 ## **ESPAÑOL**
 ![proyect cover](images/project_cover.png)
 ---
-Este proyecto implementa un pipeline para la extracción, limpieza y almacenamiento de datos meteorológicos. Utiliza Apache Airflow para la orquestación, Pandas para la limpieza de datos y Snowflake como base de datos para almacenar los datos procesados.
---
+Este proyecto implementa un pipeline para la extracción, limpieza y almacenamiento de datos meteorológicos. Utiliza Apache Airflow para la orquestación, Pandas para la limpieza de datos y Snowflake como base de datos para almacenar los datos procesados.db 
+
 # CÓMO FUNCIONA
---
+---
 ejemplo
