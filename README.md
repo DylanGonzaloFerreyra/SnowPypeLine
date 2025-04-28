@@ -22,7 +22,7 @@ Este proyecto utiliza un DAG de Apache Airflow llamado weather_dag.py, el cual e
 # CAPTURAS 
 
 ## Visualización del flujo en Airflow
-![proyect cover](images/screenshots/airflow_setup_(1).jpg)
+![proyect cover](images/screenshots/airflow_setup.jpg)
 
 ## Visualización de los datos en Snowflake
-![proyect cover](images/screenshot/snowflake_setup.png)
+![proyect cover](images/screenshots/snowflake_setup.png)
